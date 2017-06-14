@@ -1,0 +1,10 @@
+<resources>xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <string name="app_name">Service Contract</string>
+    <string name="title_activity_terms">Terms and conditions</string>
+    <string name="agree">I have read and understood the above terms and conditions. </string>
+    <string name="terms_c"> All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.All the terms and conditions will be displayed in theis scrolling textview.  This content is stored in the string resource file.</string>
+    <!-- The following are the menu options -->
+    <string name="action_settings1">Review Ts and Cs</string>
+    <string name="action_settings2">Sign Acknowledgement</string>
+    <string name="action_settings3">Finish</string>
+</resources>

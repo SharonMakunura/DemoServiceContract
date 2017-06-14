@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:shape="oval" >
+
+    <!-- View background color -->
+    <solid
+        android:color="@android:color/holo_orange_dark">
+    </solid>
+
+    <!-- View border color and width -->
+    <stroke
+        android:width="6dp"
+        android:color="#f25200">
+    </stroke>
+
+    <!-- The radius makes the corners rounded -->
+    <corners
+        android:radius="2dp"   >
+    </corners>
+
+</shape>
